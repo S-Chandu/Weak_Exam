@@ -9,11 +9,21 @@ using namespace std;
 mutex mtx;                       // For safe console & log access
 bool running(true);             // Allows graceful stop
 
+
+
+
+
+//This few lines of code is to create a log file and log events into it
 ofstream logFile("alerts_log.txt");
 void logEvent(const string& msg) {
-    lock_guard<mutex> lock(mtx);
+    lock_guard<mutex> lock(mtx);   
     logFile << msg << endl;
 }
+
+
+
+
+
 
 // Seatbelt Alert (250 ms)
 void seatbeltAlert() {
@@ -34,6 +44,12 @@ void seatbeltAlert() {
     }
 }
 
+
+
+
+
+
+
 // ABS Alert (350 ms)
 void absAlert() {
     while (running) {
@@ -53,6 +69,9 @@ void absAlert() {
     }
 }
 
+
+
+
 // Fuel Sensor (checks every 1 second)
 void fuelSensor() {
     int fuelLevel = 12;  // Low fuel simulation
@@ -64,6 +83,9 @@ void fuelSensor() {
         this_thread::sleep_for(chrono::seconds(2));
     }
 }
+
+
+
 
 // Engine Temp Sensor
 void engineSensor() {
@@ -77,6 +99,9 @@ void engineSensor() {
     }
 }
 
+
+
+
 // Door Sensor (random)
 void doorSensor() {
     while (running) {
@@ -89,6 +114,9 @@ void doorSensor() {
         this_thread::sleep_for(chrono::seconds(1));
     }
 }
+
+
+
 
 // MAIN
 int main() {
@@ -104,8 +132,8 @@ int main() {
     thread t4(engineSensor);
     thread t5(doorSensor);
 
-    // Let simulation run for 8 seconds (simple requirement)
-    this_thread::sleep_for(chrono::seconds(5));
+    // Let simulation run for 8 seconds 
+    this_thread::sleep_for(chrono::seconds(1));
 
     // Stop everything
     running = false;

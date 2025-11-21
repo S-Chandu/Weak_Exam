@@ -1,0 +1,44 @@
+[Seatbelt] ON at 14:10:57
+[ABS] ON at 14:10:57
+[Seatbelt] OFF at 14:10:57
+[Seatbelt] ON at 14:10:57
+[ABS] OFF at 14:10:57
+[ABS] ON at 14:10:57
+[Seatbelt] OFF at 14:10:57
+[Seatbelt] ON at 14:10:57
+[ABS] OFF at 14:10:58
+[ABS] ON at 14:10:58
+[Seatbelt] OFF at 14:10:58
+[Seatbelt] ON at 14:10:58
+[Seatbelt] OFF at 14:10:58
+[Seatbelt] ON at 14:10:58
+[ABS] OFF at 14:10:58
+[ABS] ON at 14:10:58
+[Seatbelt] OFF at 14:10:58
+[Seatbelt] ON at 14:10:58
+[ABS] OFF at 14:10:58
+[ABS] ON at 14:10:58
+[Seatbelt] OFF at 14:10:59
+[Seatbelt] ON at 14:10:59
+[Seatbelt] OFF at 14:10:59
+[Seatbelt] ON at 14:10:59
+[ABS] OFF at 14:10:59
+[ABS] ON at 14:10:59
+[Seatbelt] OFF at 14:10:59
+[Seatbelt] ON at 14:10:59
+[ABS] OFF at 14:10:59
+[ABS] ON at 14:10:59
+[Seatbelt] OFF at 14:10:59
+[Seatbelt] ON at 14:10:59
+[ABS] OFF at 14:10:59
+[Seatbelt] OFF at 14:11:00
+[Fuel] Low Fuel Warning (15%) at 14:11:01
+[Fuel] Low Fuel Warning (12%) at 14:11:02
+[Fuel] Low Fuel Warning (9%) at 14:11:03
+[Engine] Overheat (91°C) at 14:11:03
+[Fuel] Low Fuel Warning (6%) at 14:11:04
+[Engine] Overheat (94°C) at 14:11:04
+[Fuel] Low Fuel Warning (3%) at 14:11:05
+[Engine] Overheat (97°C) at 14:11:05
+[Engine] Overheat (100°C) at 14:11:06
+[Fuel] Low Fuel Warning (0%) at 14:11:06
