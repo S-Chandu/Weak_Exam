@@ -1,0 +1,132 @@
+====== WIPER SYSTEM STARTED ======
+System Simulation Started.
+[RainSensor] Intensity : 41%
+[SpeedSensor]  Speed: 41 km/h
+[System] Auto Adjust → Wiper Mode: LOW
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 67%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 67 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 34%
+[System] Auto Adjust → Wiper Mode: LOW
+[Fault]  Motor Jam 
+[System] System Malfunction
+[SpeedSensor]  Speed: 14 km/h
+[RainSensor] Intensity : 0%
+[Fault]  Motor Restored.
+[RainSensor] Intensity : 69%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 20 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 24%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 49 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 78%
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 58%
+[System] Auto Adjust → Wiper Mode: LOW
+[SpeedSensor]  Speed: 44 km/h
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 62%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 38 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 64%
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 5%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 78 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[Fault]  Motor Jam 
+[System] System Malfunction
+[RainSensor] Intensity : 45%
+[Fault]  Motor Restored.
+[SpeedSensor]  Speed: 2 km/h
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 81%
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 27%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 64 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 61%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 25 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 91%
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 95%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 65 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 42%
+[System] Auto Adjust → Wiper Mode: LOW
+[SpeedSensor]  Speed: 1 km/h
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 27%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 36%
+[System] Auto Adjust → Wiper Mode: LOW
+[SpeedSensor]  Speed: 27 km/h
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 91%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 41 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 4%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 2%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 11 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 53%
+[System] Auto Adjust → Wiper Mode: LOW
+[SpeedSensor]  Speed: 35 km/h
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 92%
+[System] Auto Adjust → Wiper Mode: HIGH
+[Fault]  Motor Jam 
+[System] System Malfunction
+[RainSensor] Intensity : 82%
+[Fault]  Motor Restored.
+[SpeedSensor]  Speed: 22 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 21%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 27 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 16%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 18%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 76 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 95%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 71 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 47%
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 26%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[SpeedSensor]  Speed: 44 km/h
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[RainSensor] Intensity : 71%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 62 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 38%
+[System] Auto Adjust → Wiper Mode: LOW
+[RainSensor] Intensity : 69%
+[System] Auto Adjust → Wiper Mode: HIGH
+[SpeedSensor]  Speed: 73 km/h
+[System] Auto Adjust → Wiper Mode: HIGH
+[RainSensor] Intensity : 12%
+[System] Auto Adjust → Wiper Mode: INTERMITTENT
+[Fault]  Motor Jam 
+[System] System Malfunction
+[SpeedSensor]  Speed: 52 km/h
+[RainSensor] Intensity : 67%
+[Fault]  Motor Restored.
